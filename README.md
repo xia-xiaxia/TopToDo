@@ -37,7 +37,7 @@ script/     构建、启动、安装脚本
 直接运行：
 
 ```bash
-/Users/???/Documents/TopToDo/TopTodo.command
+/Users/用户名/文件位置/TopToDo/TopTodo.command
 ```
 
 或者在项目目录执行：
@@ -49,7 +49,7 @@ script/     构建、启动、安装脚本
 ## 安装到应用程序目录
 
 ```bash
-/Users/???/Documents/TopToDo/安装\ TopTodo.command
+/Users/用户名/文件位置/TopToDo/安装\ TopTodo.command
 ```
 
 脚本会自动构建 `TopTodo.app`，并安装到：
